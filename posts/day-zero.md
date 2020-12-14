@@ -5,7 +5,7 @@ date: '2020-12-13'
 
 ## Hi!!
 
-2020 is the year where many people are finding that they have more time on their hands for various obvious reasons. I've recently learned that a particular habit of many successful persons include writing. Now whether that's specific to journaling or blogging I don't think it's important but personally I wanted to pick up blogging as a first steps. My goal for this blogs are as follows:
+2020 is the year where many people are finding that they have more time on their hands for various obvious reasons. I've recently learned that a particular habit of many successful persons include writing. Now whether that's specific to journaling or blogging I don't think it's important but personally I wanted to pick up blogging as a first steps. My goals for this blog are:
 
 - Get better at writing in general
 - Share things, personal and technical
